@@ -1,0 +1,7 @@
+{
+  "display": "standalone",
+  "lang": "en",
+  "name": "SensorGroup_MainDemo",
+  "short_name": "SensorGroup_MainDemo",
+  "start_url": "/?utm_source=web_app_manifest"
+}

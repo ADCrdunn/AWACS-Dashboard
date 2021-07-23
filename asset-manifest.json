@@ -1,0 +1,31 @@
+{
+  "files": {
+    "app.js": "/AWACS-Dashboard/static/js/app.9b3256fd.chunk.js",
+    "app.js.map": "/AWACS-Dashboard/static/js/app.9b3256fd.chunk.js.map",
+    "runtime~app.js": "/AWACS-Dashboard/static/js/runtime~app.0743d0b4.js",
+    "runtime~app.js.map": "/AWACS-Dashboard/static/js/runtime~app.0743d0b4.js.map",
+    "static/js/2.451baad2.chunk.js": "/AWACS-Dashboard/static/js/2.451baad2.chunk.js",
+    "static/js/2.451baad2.chunk.js.map": "/AWACS-Dashboard/static/js/2.451baad2.chunk.js.map",
+    "fonts/AntDesign.ttf": "/AWACS-Dashboard/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/AWACS-Dashboard/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/AWACS-Dashboard/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/AWACS-Dashboard/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/AWACS-Dashboard/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/AWACS-Dashboard/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/AWACS-Dashboard/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/AWACS-Dashboard/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/AWACS-Dashboard/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/AWACS-Dashboard/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/AWACS-Dashboard/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/AWACS-Dashboard/./fonts/SimpleLineIcons.ttf",
+    "index.html": "/AWACS-Dashboard/index.html",
+    "manifest.json": "/AWACS-Dashboard/manifest.json",
+    "serve.json": "/AWACS-Dashboard/serve.json",
+    "static/js/2.451baad2.chunk.js.LICENSE.txt": "/AWACS-Dashboard/static/js/2.451baad2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.0743d0b4.js",
+    "static/js/2.451baad2.chunk.js",
+    "static/js/app.9b3256fd.chunk.js"
+  ]
+}
