@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/AWACS-Dashboard/static/js/app.9b3256fd.chunk.js",
-    "app.js.map": "/AWACS-Dashboard/static/js/app.9b3256fd.chunk.js.map",
+    "app.js": "/AWACS-Dashboard/static/js/app.6c04a38e.chunk.js",
+    "app.js.map": "/AWACS-Dashboard/static/js/app.6c04a38e.chunk.js.map",
     "runtime~app.js": "/AWACS-Dashboard/static/js/runtime~app.0743d0b4.js",
     "runtime~app.js.map": "/AWACS-Dashboard/static/js/runtime~app.0743d0b4.js.map",
     "static/js/2.451baad2.chunk.js": "/AWACS-Dashboard/static/js/2.451baad2.chunk.js",
@@ -26,6 +26,6 @@
   "entrypoints": [
     "static/js/runtime~app.0743d0b4.js",
     "static/js/2.451baad2.chunk.js",
-    "static/js/app.9b3256fd.chunk.js"
+    "static/js/app.6c04a38e.chunk.js"
   ]
 }
